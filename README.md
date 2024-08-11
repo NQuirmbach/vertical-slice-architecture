@@ -1,2 +1,17 @@
-# vertical-slice-architecture
-Vertical Slice Architecture with .NET, MartenDB and Wolverine
+# Vertical Slice Architecture Sample
+
+This repo contains a sample project for using Vertical Architecture with .NET.
+
+Additional technologies:
+
+- FastEndpoints
+- Vogus
+- Wolverine
+- Marten.DB
+
+## Links
+
+- https://www.omdbapi.com
+- https://fast-endpoints.com
+- https://wolverine.netlify.app
+- https://martendb.io
